@@ -3,8 +3,9 @@
 let get start with study How to use [github](https://try.github.io/levels/1/challenges/1) and  [Markdown](http://www.markdowntutorial.com/)(optional for write a readme)
 
 # Install Git
-- github for __Window__ download [here](https://git-scm.com/download/win)
-- github for __Ubuntu__
+- git for __Window__ download [here](https://git-scm.com/download/win) 
+- github for __Window__ desktop download [here](https://desktop.github.com/) 
+- git for __Ubuntu__
   ```
   $ sudo apt-get install git
   ```
