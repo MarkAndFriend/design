@@ -6,5 +6,6 @@
 6
 7
 8
-9
-nuttanont come here 11:03
+10101011
+nuttanont coaaame here >> noob shit
+aaaaa
