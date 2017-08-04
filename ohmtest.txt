@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-chonlaphoom thaiyanto
-=======
-chon
->>>>>>> 6091b43e837ffcfec52f43c6f6fd909b6ce84a7f
+chonlaphoom 
